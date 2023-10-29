@@ -1,4 +1,5 @@
 import "./AboutContent.css";
+import React from "react";
 import { Link } from "react-router-dom";
 import about1 from "../assets/about1.jpg";
 import about2 from "../assets/project3.jpg";
